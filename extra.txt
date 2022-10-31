@@ -1,0 +1,9 @@
+refrence link : https://www.youtube.com/watch?v=wRIUnHO_6KY&list=PLpp8-k7G_6Y3Wj1suZQ-9lATFzFuGw93x&index=53
+
+
+
+How to make executable??
+ open cmd where these files are placed.
+ in CMD type : 
+    python setup.py bdist_msi # bdist_msi is for windows users
+go inside dist folder, you will get your exe files
